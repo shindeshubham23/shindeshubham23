@@ -8,7 +8,11 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
-
+EDA-TOKYO-OLYMPICS-2020-MEDALS : https://github.com/shindeshubham23/EDA-TOKYO-OLYMPICS-2020-MEDALS.git
+EDA-CAR DEKHO : https://github.com/shindeshubham23/EDA-CAR-DEKHO.git
+EDA-ZOMATO : https://github.com/shindeshubham23/EDA-ZOMATO.git
+MACHINE-LEARNING-DEPLOYMENT-CAR-PRICE-PREDICTION : https://github.com/shindeshubham23/MACHINE-LEARNING-DEPLOYMENT-CAR-PRICE-PREDICTION.git
+CNN-DEPLOYMENT-FOR-COVID : https://github.com/shindeshubham23/CNN-DEPLOYMENT-FOR-COVID.git
 
 ### Skills
 Language & Tools   : Python, Pandas, Numpy
