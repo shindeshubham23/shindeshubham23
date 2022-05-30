@@ -8,7 +8,11 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
-[car details for car dekho]
-(https://github.com/shindeshubham23/shindeshubham23.git)
+
 
 ### Skills
+Language & Tools   : Python, Pandas, Numpy
+Machine Learning   : Supervised, Unsupervised, EDA 
+Deep Learning      : Neural Networks, Keras, TensorFlow 
+BI Tools & DB      : Tableau Desktop, Power BI Desktop, Excel, SQL, Mongo DB
+Data Visualization : Matplotlib, Seaborn, Patsy, Plotly, Cufflink
